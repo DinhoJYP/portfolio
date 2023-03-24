@@ -1,0 +1,5 @@
+h1{
+    background: linear-gradient(90deg, rgb(119, 189, 247) 10%, rgba(5, 240, 228, 0.473) 50%, rgb(38, 0, 253) 90%);
+    z-index: -1;
+    text-align: center;
+}
